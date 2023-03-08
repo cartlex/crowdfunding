@@ -1,0 +1,10 @@
+#hardhat
+
+hardhat/node_modules
+hardhat/typechain-types
+hardhat/artifacts
+hardhat/cache
+hardhat/package-lock.json
+hardhat/tsconfig.json
+hardhat/hardhat.config.ts
+hardhat/README.md
